@@ -1,0 +1,14 @@
+{
+  "name": "bhaymore-nagios",
+  "version": "0.1.0",
+  "author": "bhaymore",
+  "summary": "Module to manage a nagios server.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/localmotors/nagios",
+  "project_page": "https://github.com/localmotors/nagios",
+  "issues_url": "https://github.com/localmotors/nagios/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
